@@ -1,0 +1,14 @@
+{
+  "session_id": "02c8039d-93f6-4512-ac9d-337ad715e015",
+  "title": "what is python",
+  "messages": [
+    {
+      "role": "user",
+      "content": "what is python"
+    },
+    {
+      "role": "assistant",
+      "content": "Python is a high-level programming language that is easy to learn and widely used for various purposes such as web development, data analysis, AI, etc. It is designed for readability and simplicity, making it ideal for beginners. It is known for its readability, ease of use, and versatility across different fields."
+    }
+  ]
+}

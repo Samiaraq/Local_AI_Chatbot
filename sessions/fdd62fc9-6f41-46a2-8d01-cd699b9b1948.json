@@ -1,0 +1,10 @@
+{
+  "session_id": "fdd62fc9-6f41-46a2-8d01-cd699b9b1948",
+  "title": "What is Python?",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What is Python?"
+    }
+  ]
+}

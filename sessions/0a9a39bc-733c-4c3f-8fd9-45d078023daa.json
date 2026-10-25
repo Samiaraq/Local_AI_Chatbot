@@ -1,0 +1,54 @@
+{
+  "session_id": "0a9a39bc-733c-4c3f-8fd9-45d078023daa",
+  "title": "مرحبا",
+  "messages": [
+    {
+      "role": "user",
+      "content": "مرحبا"
+    },
+    {
+      "role": "assistant",
+      "content": "مرحبا! أنت بحاجة إلى مساعدة؟"
+    },
+    {
+      "role": "user",
+      "content": "احكي قصه "
+    },
+    {
+      "role": "assistant",
+      "content": "بالطبع! ما الذي تريده؟ يمكنني مساعدتك في صياغته."
+    },
+    {
+      "role": "user",
+      "content": "اعتبر حالك مسؤول دعم فني"
+    },
+    {
+      "role": "assistant",
+      "content": "بالطبع! ما الذي يريده؟ يمكنك أن أساعدك في صياغته."
+    },
+    {
+      "role": "user",
+      "content": "hi can you talk about Ai"
+    },
+    {
+      "role": "assistant",
+      "content": "بالطبع! أنت بحاجة إلى مساعدة في صياغة قصتك؟ ما الذي تريده؟"
+    },
+    {
+      "role": "user",
+      "content": "exblain"
+    },
+    {
+      "role": "assistant",
+      "content": "بالطبع! ما الذي تريده؟ يمكنني مساعدتك في صياغته."
+    },
+    {
+      "role": "user",
+      "content": "احكيلي عن الذكاء الاصطناعي"
+    },
+    {
+      "role": "assistant",
+      "content": "بالطبع! ما الذي تريده؟ يمكنني مساعدتك في صياغته."
+    }
+  ]
+}
